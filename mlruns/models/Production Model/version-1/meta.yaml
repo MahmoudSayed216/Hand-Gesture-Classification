@@ -1,0 +1,16 @@
+creation_timestamp: 1772318448678
+current_stage: None
+deployment_job_state: null
+description: ''
+last_updated_timestamp: 1772318448678
+model_id: m-65b903e035e944e0ba9bb9ae4be9a47f
+name: Production Model
+run_id: 0bcd22617efd4ee7898eb00aff8aed9a
+run_link: ''
+source: models:/m-65b903e035e944e0ba9bb9ae4be9a47f
+status: READY
+status_message: null
+storage_location: file:///home/mahmoud-sayed/Desktop/ITI/Machine Learning [Supervised]/Project
+  2/mlruns/962493122597472232/models/m-65b903e035e944e0ba9bb9ae4be9a47f/artifacts
+user_id: null
+version: 1

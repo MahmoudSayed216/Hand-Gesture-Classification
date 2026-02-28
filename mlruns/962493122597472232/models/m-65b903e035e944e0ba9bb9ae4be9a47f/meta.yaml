@@ -1,0 +1,11 @@
+artifact_location: file:///home/mahmoud-sayed/Desktop/ITI/Machine Learning [Supervised]/Project
+  2/mlruns/962493122597472232/models/m-65b903e035e944e0ba9bb9ae4be9a47f/artifacts
+creation_timestamp: 1772314156548
+experiment_id: '962493122597472232'
+last_updated_timestamp: 1772314158206
+model_id: m-65b903e035e944e0ba9bb9ae4be9a47f
+model_type: null
+name: model
+source_run_id: 0bcd22617efd4ee7898eb00aff8aed9a
+status: 2
+status_message: null

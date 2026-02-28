@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mahmoud-sayed/Desktop/ITI/Machine Learning [Supervised]/Project
+  2/mlruns/962493122597472232/0464323b68414a7da0c40c8835ecbe31/artifacts
+end_time: 1772313872263
+entry_point_name: ''
+experiment_id: '962493122597472232'
+lifecycle_stage: active
+run_id: 0464323b68414a7da0c40c8835ecbe31
+run_name: KNN with K=3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772313870396
+status: 3
+tags: []
+user_id: mahmoud-sayed

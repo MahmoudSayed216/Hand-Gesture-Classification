@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mahmoud-sayed/Desktop/ITI/Machine Learning [Supervised]/Project
+  2/mlruns/962493122597472232/a428628fbaf94792aa597392afe7c814/artifacts
+end_time: 1772313915769
+entry_point_name: ''
+experiment_id: '962493122597472232'
+lifecycle_stage: active
+run_id: a428628fbaf94792aa597392afe7c814
+run_name: Decision Tree Grid Search
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772313913734
+status: 3
+tags: []
+user_id: mahmoud-sayed

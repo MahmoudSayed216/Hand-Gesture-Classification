@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mahmoud-sayed/Desktop/ITI/Machine Learning [Supervised]/Project
+  2/mlruns/962493122597472232/0bcd22617efd4ee7898eb00aff8aed9a/artifacts
+end_time: 1772314158206
+entry_point_name: ''
+experiment_id: '962493122597472232'
+lifecycle_stage: active
+run_id: 0bcd22617efd4ee7898eb00aff8aed9a
+run_name: SVC Grid Search
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772314156202
+status: 3
+tags: []
+user_id: mahmoud-sayed
