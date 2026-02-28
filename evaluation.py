@@ -11,9 +11,9 @@ def evaluate_model(model, features, labels):
 
 
     return {
-        'accuracy' : acc,
-        'recall'   : rec,
-        'precision': pre,
-        'f1_score' : f1_,
-        'conf_mat' : cfm
+        'Accuracy' : acc,
+        'Recall'   : rec,
+        'Precision': pre,
+        'f1' : f1_,
+        'Confusion Matrix' : cfm
     }
