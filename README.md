@@ -66,14 +66,15 @@ pip install pandas numpy matplotlib seaborn scikit-learn mlflow mediapipe
 
 ## 🤖 Models Trained
 
-| Model | Tuning |
-|---|---|
-| K-Nearest Neighbors (K=3, K=5) | Manual |
-| Decision Tree | GridSearchCV |
-| Random Forest | GridSearchCV |
-| **SVC (RBF kernel)** ⭐ | GridSearchCV |
+| Model | Accuracy | Precision | Recall | F1-Score | Tuning |
+|---|---|---|---|---|---|
+| KNN (K=5) | 97.75% | 97.79% | 97.77% | 97.77% | Manual |
+| KNN (K=3) | 97.98% | 98.02% | 98.00% | 98.00% | Manual |
+| Decision Tree | 95.76% | 95.84% | 95.82% | 95.82% | GridSearchCV |
+| Random Forest | 97.60% | 97.66% | 97.62% | 97.63% | GridSearchCV |
+| **SVC (RBF kernel)** ⭐ | **98.59%** | **98.62%** | **98.60%** | **98.60%** | GridSearchCV |
 
-All models were evaluated on accuracy, precision, recall, and macro F1-score. Experiments were tracked using **MLflow**.
+All experiments were tracked using **MLflow**.
 
 **Best model: SVC** — achieved the highest scores across all metrics and was selected for deployment.
 
