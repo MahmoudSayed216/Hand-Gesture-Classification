@@ -95,7 +95,7 @@ Each model is assessed using:
 
 A demo video showing real-time gesture classification using the trained SVC model and MediaPipe hand landmark extraction is available here:
 
-👉 **[Video Demo Link](#)** *(replace with your Google Drive link)*
+👉 **[Video Demo Link](https://drive.google.com/drive/u/2/folders/1VeAmcvCfZLaxk1P2Ac0qH2m_j5JYeHZV)** 
 
 > Tip: Predictions are stabilized using a sliding window mode over recent frames to reduce flickering.
 
